@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.15e68d8b.css",
-    "main.js": "/static/js/main.40e11ab8.js",
-    "static/media/granattor.jpg": "/static/media/granattor.312883d783b50c0e8950.jpg",
-    "static/media/radl.jpg": "/static/media/radl.f1952b02dfe250f591da.jpg",
-    "static/media/moon.svg": "/static/media/moon.2f8e465fe98ce2c61451cfd80a652ab1.svg",
-    "index.html": "/index.html",
-    "static/media/collapse-button.svg": "/static/media/collapse-button.dcb6e437a7d8d43ce6bc0b93033f8523.svg",
-    "static/media/transition.svg": "/static/media/transition.f881b3b78ddfa1b93e6821b86421990e.svg",
-    "static/media/reroll.svg": "/static/media/reroll.fb5d56962d6c1916f0c29dbb8a4964cf.svg",
-    "static/media/done.svg": "/static/media/done.d99290e29c79a96221a82c0e71475390.svg",
-    "static/media/explosion.svg": "/static/media/explosion.547ea5edcc91d7763e3067c31b5bb9d1.svg",
-    "static/media/star.svg": "/static/media/star.053912c37f122283a92f6c403860650e.svg",
-    "static/media/open.svg": "/static/media/open.e1ada0cd6e2a8c293658a0357dd06d7a.svg",
-    "static/media/hill.svg": "/static/media/hill.d250f87e2f9361f88494b22190cea266.svg",
-    "main.15e68d8b.css.map": "/static/css/main.15e68d8b.css.map",
-    "main.40e11ab8.js.map": "/static/js/main.40e11ab8.js.map"
+    "main.css": "/moon/static/css/main.15e68d8b.css",
+    "main.js": "/moon/static/js/main.b3de66f3.js",
+    "static/media/granattor.jpg": "/moon/static/media/granattor.312883d783b50c0e8950.jpg",
+    "static/media/radl.jpg": "/moon/static/media/radl.f1952b02dfe250f591da.jpg",
+    "static/media/moon.svg": "/moon/static/media/moon.2f8e465fe98ce2c61451cfd80a652ab1.svg",
+    "index.html": "/moon/index.html",
+    "static/media/collapse-button.svg": "/moon/static/media/collapse-button.dcb6e437a7d8d43ce6bc0b93033f8523.svg",
+    "static/media/transition.svg": "/moon/static/media/transition.f881b3b78ddfa1b93e6821b86421990e.svg",
+    "static/media/reroll.svg": "/moon/static/media/reroll.fb5d56962d6c1916f0c29dbb8a4964cf.svg",
+    "static/media/done.svg": "/moon/static/media/done.d99290e29c79a96221a82c0e71475390.svg",
+    "static/media/explosion.svg": "/moon/static/media/explosion.547ea5edcc91d7763e3067c31b5bb9d1.svg",
+    "static/media/star.svg": "/moon/static/media/star.053912c37f122283a92f6c403860650e.svg",
+    "static/media/open.svg": "/moon/static/media/open.e1ada0cd6e2a8c293658a0357dd06d7a.svg",
+    "static/media/hill.svg": "/moon/static/media/hill.d250f87e2f9361f88494b22190cea266.svg",
+    "main.15e68d8b.css.map": "/moon/static/css/main.15e68d8b.css.map",
+    "main.b3de66f3.js.map": "/moon/static/js/main.b3de66f3.js.map"
   },
   "entrypoints": [
     "static/css/main.15e68d8b.css",
-    "static/js/main.40e11ab8.js"
+    "static/js/main.b3de66f3.js"
   ]
 }
