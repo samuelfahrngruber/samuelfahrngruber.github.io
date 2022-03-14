@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/moon/static/css/main.15e68d8b.css",
-    "main.js": "/moon/static/js/main.b3de66f3.js",
+    "main.css": "/moon/static/css/main.264041a7.css",
+    "main.js": "/moon/static/js/main.08925e8c.js",
     "static/media/granattor.jpg": "/moon/static/media/granattor.312883d783b50c0e8950.jpg",
     "static/media/radl.jpg": "/moon/static/media/radl.f1952b02dfe250f591da.jpg",
     "static/media/moon.svg": "/moon/static/media/moon.2f8e465fe98ce2c61451cfd80a652ab1.svg",
@@ -14,11 +14,11 @@
     "static/media/star.svg": "/moon/static/media/star.053912c37f122283a92f6c403860650e.svg",
     "static/media/open.svg": "/moon/static/media/open.e1ada0cd6e2a8c293658a0357dd06d7a.svg",
     "static/media/hill.svg": "/moon/static/media/hill.d250f87e2f9361f88494b22190cea266.svg",
-    "main.15e68d8b.css.map": "/moon/static/css/main.15e68d8b.css.map",
-    "main.b3de66f3.js.map": "/moon/static/js/main.b3de66f3.js.map"
+    "main.264041a7.css.map": "/moon/static/css/main.264041a7.css.map",
+    "main.08925e8c.js.map": "/moon/static/js/main.08925e8c.js.map"
   },
   "entrypoints": [
-    "static/css/main.15e68d8b.css",
-    "static/js/main.b3de66f3.js"
+    "static/css/main.264041a7.css",
+    "static/js/main.08925e8c.js"
   ]
 }
